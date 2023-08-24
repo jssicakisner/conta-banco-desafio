@@ -1,6 +1,6 @@
 ## Desafio Java Dio
 
-Este repositório é parte da entrega de um projeto durante os estudos de desenvolvimento Java na plataforma [Dio](https://www.dio.me/).
+Este repositório é parte da entrega de um projeto durante os estudos de desenvolvimento Java na plataforma [Dio](https://www.dio.me/) para o curso: Santander Bootcamp 2023 - Backend Java
 
 ## Descrição do Desafio
 
